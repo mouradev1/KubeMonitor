@@ -37,7 +37,7 @@ func main() {
 			}
 		}
 		log.Printf("Executtando !!!")
-		time.Sleep(1 * time.Minute)
+		time.Sleep(1 * time.Minute) // Definir tempo de execução da função main
 	}
 }
 
